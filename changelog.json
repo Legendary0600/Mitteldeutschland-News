@@ -1,6 +1,13 @@
 [
     {
-        "date": "h",
-        "logs": ["X1", "X2"]
+        "date": "27.10.2024 - 13:57",
+        "logs": [
+            "Neues Pausemenu",
+            "Loading Screen Überarbeitet",
+            "Changelog im Pausemenu Hinterlegt",
+            "Hintergrund Musik im Pausemenu Hinzugefügt",
+            "Informationen (News) im Pausemenu Hinterlegt",
+            "Informationen (News) im Loadingscreen Hinterlegt"
+        ]
     }
 ]
