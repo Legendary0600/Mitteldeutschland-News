@@ -13,7 +13,8 @@
             "Spieler Ping im Pausemenu ist nun Farblich Hinterlegt (je nach ping)",
             "ein fehler im Framework behoben welcher einen Inkorrekten CB Wiedergegeben hat",
             "Closed Beta Mitgliedern Freigeschalten",
-            "Verbundene Spieler werden nun im Pausemenu Angezeigt, unter dem button: 'Spieler'"
+            "Verbundene Spieler werden nun im Pausemenu Angezeigt, unter dem button: 'Spieler'",
+            "Bugreports Hinzugefügt zum Pausemenu"
         ]
     }
 ]
