@@ -14,7 +14,8 @@
             "ein fehler im Framework behoben welcher einen Inkorrekten CB Wiedergegeben hat",
             "Closed Beta Mitgliedern Freigeschalten",
             "Verbundene Spieler werden nun im Pausemenu Angezeigt, unter dem button: 'Spieler'",
-            "Bugreports Hinzugefügt zum Pausemenu"
+            "Bugreports Hinzugefügt zum Pausemenu",
+            "Warnblinker lassen sich nun nicht mehr abschalten mit dem setzeen eines anderen Blinkers (links oder rechts). um einen blinker zu setzten muss der warn blinker erst deaktiviert werden"
         ]
     }
 ]
