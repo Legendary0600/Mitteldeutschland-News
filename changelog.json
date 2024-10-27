@@ -3,7 +3,8 @@
     {
         "date": "28.10.2024 - 0:10",
         "logs": [
-            "Telefon konnte nicht geöffnet werden (ungültige simkarte)"
+            "Telefon konnte nicht geöffnet werden (ungültige simkarte)",
+            "Bossmenu accounts konnten mehrfach eingeloggt sein"
         ]
     },
     
