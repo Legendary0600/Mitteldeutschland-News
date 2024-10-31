@@ -4,8 +4,10 @@
         "date": "31.10.2024 - 16:05",
         "logs": [
             "beim schließen eines Menus (mit [ESC] wo sich der spieler nebenbei bewegen kann) wurde das Pausemenu zusätzlich geöffnet.",
-            "Neue Skin - Verwaltung",
-            "Kleidungsläden erste Beta für Charakter Erstellung"
+            "Kleidungsläden erste Beta für Charakter Erstellung - Aktuell nicht kaufbar",
+            "Charakter Erstellung beinhaltet nun auch Brillen",
+            "Charakter Erstellung - Überarbeitet",
+            "Neue Skin - Verwaltung"
         ]
     },
     
