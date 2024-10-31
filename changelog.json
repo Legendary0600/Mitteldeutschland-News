@@ -1,6 +1,13 @@
 [
 
     {
+        "date": "31.10.2024 - 03:24",
+        "logs": [
+            "beim schließen eines Menus (mit [ESC] wo sich der spieler nebenbei bewegen kann) wurde das Pausemenu zusätzlich geöffnet."
+        ]
+    },
+    
+    {
         "date": "28.10.2024 - 0:10",
         "logs": [
             "Telefon konnte nicht geöffnet werden (ungültige simkarte)",
