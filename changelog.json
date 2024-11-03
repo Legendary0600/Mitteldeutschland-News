@@ -4,7 +4,8 @@
         "logs": [
             "Lenkverhalten ist nur noch auf Fahrzeuge Begrenzt (keine Motorräder, Fahrrader, Helikopter, Flugzeuge, Züge etc.)",
             "Feuerwache 1 Standort vom Hauptplatz zum Strand Verschoben (MP Standort wird für das Autohaus Freigelegt)",
-            "Kleidungs Menu - Whitelist - Blacklist - Eingebunden"
+            "Kleidungs Menu - Whitelist - Blacklist - Eingebunden",
+            "das Charakter Menu kann absofort nicht mehr mit [ESC] Geschlossen werden und muss über dem Reiter Speichern nun geschlossen werden - (damit sollten charakter erstellungen nicht mehr abgebrochen werden können!)- das Kleidungs Menu ist davon nicht betroffen."
         ]
     },
 
