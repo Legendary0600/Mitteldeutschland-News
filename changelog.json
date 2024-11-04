@@ -1,4 +1,15 @@
+
+
 [
+    {
+        "date": "04.11.2024 - 01:22",
+        "logs": [
+            "Positionaler Sound im Fahrzeug wurde nicht korrekt Reguliert (lautstärke)",
+            "Saltychat resource geändert",
+            "Leichte Performance anpassungen"
+        ]
+    },
+    
     {
         "date": "03.11.2024 - 17:09",
         "logs": [
