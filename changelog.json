@@ -8,7 +8,8 @@
             "Sound Library Neue Collection für spätere Einbindungen",
             "Sound Library Position & Entity updates sind nun mehr Separiert",
             "Sound Library Spieler Bezogene Sounds werden nicht mehr via Entity Sounds abgespielt",
-            "Sound Library & Audio Library sind nun Separat (dies sollte einige Ladezeiten Verkürzen u.a. auch bei arbeiten an der Sound Library)"
+            "Sound Library & Audio Library sind nun Separat (dies sollte einige Ladezeiten Verkürzen u.a. auch bei arbeiten an der Sound Library)",
+            "Anschallknopf muss zum zum anschnallen gedrückt gehalten werden (ca. 2-3sek) zum abschnalle reicht es kurz zu drücken (kurz gedrückthalten)"
         ]
     },
     {
