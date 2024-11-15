@@ -2,6 +2,15 @@
 
 [
     {
+        "date": "15.11.2024 - 11:57",
+        "logs": [
+            "Sound Library Überarbeitet",
+            "Sound Library Neue Collection für spätere Einbindungen",
+            "Sound Library Position & Entity updates sind nun mehr Separiert",
+            "Sound Library Spieler Bezogene Sounds werden nicht mehr via Entity Sounds abgespielt"
+        ]
+    },
+    {
         "date": "04.11.2024 - 01:22",
         "logs": [
             "Positionaler Sound im Fahrzeug wurde nicht korrekt Reguliert (lautstärke)",
