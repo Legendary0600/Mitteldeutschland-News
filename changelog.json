@@ -2,18 +2,19 @@
 
 [
     {
-        "date": "18.11.2024 - 06:33",
+        "date": "18.11.2024 - 21:41",
         "logs": [
             "Telefon Grund Prinzip Komplett Überarbeitet",
             "Telefon im Neuen Funknetz Registriert",
-            "Telefon hat nun Standard keine Apps Installiert (messenger, maps, weather ... ect) diese müssen manuell im playstore runtergeladen werden",
-            "Playstore wurde dem Telefon nun als Standard Hinzugefügt (derzeit noch in arbeit)",
+            "Playstore wurde dem Telefon Hinzugefügt (derzeit noch in arbeit)",
             "Komplett Neue Anruf Logic",
             "Einige Redesigns am Telefon",
             "Darkmode ist nun Standard im Telefon und nicht mehr Optional.",
             "beim Telefon wurden Vielerlei Bugs Vorgebeugt und Gefixt",
             "Telefon sollte sich nicht mehr so leicht verbuggen.",
-            "Jedes Telefon hat nun Feste Funktionen und nicht mehr Variable"
+            "Jedes Telefon hat nun Feste Funktionen und nicht mehr Variable",
+            "Anrufe können nun von der Nummern Eingabe direkt gewählt werden ohne gespeichert zu werden",
+            "Anruf Verlauf ist nun mit Profil bild & Schlichter Gehalten."
         ]
     },
     {
