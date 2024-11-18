@@ -2,6 +2,18 @@
 
 [
     {
+        "date": "18.11.2024 - 06:33",
+        "logs": [
+            "Telefon Grund Prinzip Komplett Überarbeitet",
+            "Telefon im Neuen Funknetz Registriert",
+            "Telefon hat nun Standard keine Apps Installiert (messenger, maps, weather ... ect) diese müssen manuell im playstore runtergeladen werden",
+            "Playstore wurde dem Telefon nun als Standard Hinzugefügt (derzeit noch in arbeit)",
+            "Komplett Neue Anruf Logic",
+            "Einige Redesigns am Telefon",
+            "Darkmode ist nun Standard im Telefon und nicht mehr Optional.",
+        ]
+    },
+    {
         "date": "15.11.2024 - 11:57",
         "logs": [
             "Sound Library Überarbeitet",
